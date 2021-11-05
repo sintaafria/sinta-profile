@@ -3,7 +3,7 @@ import { Card, Form, Button } from "react-bootstrap";
 
 export default function FormComp () {
     return(
-        <div className="text-center">
+        <div className="text-center" id="contact">
             <h1 className="text-center">Contact Me</h1>
             <Card className="mx-auto my-4" style={{width: '18rem', border: 'none'}}>
                 <Form>

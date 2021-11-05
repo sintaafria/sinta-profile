@@ -5,7 +5,7 @@ export default function SkillsComp() {
 
     return (
         <div>
-            <h1 className="text-center mb-5">My Skills</h1>
+            <h1 className="text-center mb-5" id="skill">My Skills</h1>
             <ContentComp name="Python" val="90"/>
             <ContentComp name="Javascript" val="85"/>
             <ContentComp name="HTML & CSS" val="85"/>

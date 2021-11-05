@@ -19,7 +19,7 @@ export default function HeadComp() {
     };
 
     return (
-        <Container fluid style={containerStyle} className="px-5">
+        <Container fluid style={containerStyle} className="px-5" id="home">
             <Row className="py-4">
                 <Col className="my-3 text-center">
                 <Image style={imgStyle} src={profil} roundedCircle />

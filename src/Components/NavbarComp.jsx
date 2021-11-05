@@ -20,10 +20,10 @@ export default function navbarComp () {
                 <Navbar.Toggle id="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mx-auto mb-2 mb-lg-0">
-                        <Nav.Link className="mx-auto mb-2 mb-lg-0" href="#action1" style={linkStyle}>Home</Nav.Link>
-                        <Nav.Link className="mx-auto mb-2 mb-lg-0" href="#action2" style={linkStyle}>About</Nav.Link>
-                        <Nav.Link className="mx-auto mb-2 mb-lg-0" href="#action2" style={linkStyle}>Work</Nav.Link>
-                        <Nav.Link className="mx-auto mb-2 mb-lg-0" href="#action2" style={linkStyle}>Contact</Nav.Link>
+                        <Nav.Link className="mx-auto mb-2 mb-lg-0" href="#home">Home</Nav.Link>
+                        <Nav.Link className="mx-auto mb-2 mb-lg-0" href="#about">About</Nav.Link>
+                        <Nav.Link className="mx-auto mb-2 mb-lg-0" href="#skill">Work</Nav.Link>
+                        <Nav.Link className="mx-auto mb-2 mb-lg-0" href="#contact">Contact</Nav.Link>
                     </Nav>
                     <Form className="d-flex justify-content-center">
                         <Button variant="outline-light" style={linkStyle}>Let's talk</Button>
