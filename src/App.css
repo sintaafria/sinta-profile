@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Sans');
+
+.progress-bar {
+	background-color: #040e27;
+}
+
+a:hover{
+      background-color: #fff;
+      color: #040e27 !important;
+}
+
+Navbar {
+  font-family: "DM Sans", sans-serif !;
+}

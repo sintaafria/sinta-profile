@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@import url('https://fonts.googleapis.com/css?family=DM+Sans');
+
+body {
+  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif !important;
+  color: #040e27;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+nav {
+  font-family: "DM Sans", sans-serif !important;
+}
+
